@@ -4,7 +4,7 @@ The English-language website of the author Sena JG, published at <https://senajg
 
 ## Version
 
-In preparation: **v4.0.0**, since SenaJG-rev.45 (2026-10-29): the international domain, senajg.com, for the website in English. Each version will have a Release page in this repository, with a summary of what changed: <https://github.com/avisnet-ship-it/senajg.com/releases>.
+Current version: **v4.0.0** (SenaJG-rev.58), 2026-10-30, the first version of this website: the international domain, senajg.com, for the website in English. Each version has a Release page in this repository, with a summary of what changed: <https://github.com/avisnet-ship-it/senajg.com/releases>.
 
 ## Where each page is
 
