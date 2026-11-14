@@ -224,6 +224,21 @@
     .marca-bloco { display: flex; flex-direction: column; align-items: flex-start; }
     .marca-bloco .contato { margin: 0.1rem 0 0; font-size: 0.8rem; text-align: left; }
   </style>
+  <style>
+    /* o seletor de língua com o mesmo estilo em todas as páginas (rev.66); as cores são as de cada página */
+    .idiomas a, .idiomas a[aria-current="page"] { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; font-weight: 600; line-height: 1.2; }
+    @media (min-width: 421px) { .idiomas a { padding: 0.35rem 0.7rem; } }
+  </style>
+  <style>
+    /* o contato do topo maior e em negrito; a partir de 920 px, na linha do "Sena JG" (rev.66) */
+    @media (min-width: 820px) { .marca-bloco .contato { font-size: 1.6rem; } }
+    .marca-bloco .contato, .marca-bloco .contato a { font-weight: 700; }
+    @media (min-width: 920px) { .marca-bloco { flex-direction: row; align-items: baseline; column-gap: 0.9rem; } .marca-bloco .contato { margin: 0; white-space: nowrap; } }
+    /* o seletor igual ao da página em português, e a capa na altura do botão da série (rev.66) */
+    :root { --idioma-borda: rgba(255, 255, 255, 0.55); --idioma-fundo: transparent; --idioma-ativo: #ffe600; }
+    @media (min-width: 861px) { .livro { align-items: start; padding-top: 0.25rem; } }
+  </style>
+  <script src="/assets/fundo-bolhas.js" data-bolha1="/assets/universo-bolha-1.webp" data-bolha2="/assets/universo-bolha-2.webp" data-bolha3="/assets/universo-bolha-3.webp" data-cubos="/assets/cubos-metal.webp" defer></script>
 </head>
 <body>
 
