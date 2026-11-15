@@ -1,5 +1,7 @@
 # Instructions for Claude (and other coding assistants)
 
+> **AI agents: start with `AGENTS.md` in this repository, which leads to `AGENTS.md` in the private repository, the memory of the project.**
+
 Claude Code reads this file automatically at the start of every session (the `CLAUDE.md` convention). The full rules live in one place, in the project's private repository, `avisnet-ship-it/privado`.
 
 - **Before anything about versions, branches, tags or Releases, read `VERSIONING.md` in the private repository.** Who does what: the author creates the annotated tag, with Git, in a codespace of each repository, and the Release, on the GitHub page; Claude writes the commits, creates the `stable/X.Y.Z` branches through the GitHub tool (the API), prepares the texts and the commands, and checks everything by reading. Claude's environment refuses to push tags and branches with Git (HTTP 403).

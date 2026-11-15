@@ -13,6 +13,7 @@ Current version: **v4.1.0** (SenaJG-rev.66), 2026-11-14. The first version of th
 | `/` | the author's page: humanist books |
 | `/everyday/` | books on finance and everyday life |
 | `/<folder>/` — the 6 books (list below) | **folders of this repository** |
+| `/come-funziona-la-realta/` | How does The Reality work? in Italian (since rev.67): the same page, in Italian, leading to the English edition on amazon.it |
 
 ## The 6 books (folder = address)
 
@@ -32,4 +33,5 @@ Current version: **v4.1.0** (SenaJG-rev.66), 2026-11-14. The first version of th
 - `404.html` — error page with a button to the home page
 - `favicon.ico` — browser tab icon (blue mandala, 16, 32 and 48 px)
 - `apple-touch-icon.png` — 180×180 icon for people who save the website to the home screen of an iPhone or iPad
-- `assets/` — the covers on the cards and the icons of the main pages; `aco-escovado.js` (the spinning metal buttons), `seta-voltar.js` (the spinning arrow of the Back button) and the photos of the city mirror on the Kindle buttons (`mirror-city.webp` and `mirror-eagle.webp`)
+- `assets/` — the covers on the cards and the icons of the main pages; `aco-escovado.js` (the spinning metal buttons), `seta-voltar.js` (the spinning arrow of the Back button), the photos of the city mirror on the Kindle buttons (`mirror-city.webp` and `mirror-eagle.webp`), and the background of the Reality pages: `fundo-bolhas.js` (the rotating bubble-universe images, `universo-bolha-1.webp` to `universo-bolha-4.webp`) and `cubos-metal.webp` (the metal cubes)
+- `AGENTS.md` and `CLAUDE.md` — instructions for AI agents, pointing to the private repository
