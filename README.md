@@ -4,7 +4,7 @@ The English-language website of the author Sena JG, published at <https://senajg
 
 ## Version
 
-Current version: **v4.1.0** (SenaJG-rev.66), 2026-11-14. The first version of this website was v4.0.0 (SenaJG-rev.58), 2026-10-30: the international domain, senajg.com, for the website in English. Each version has a Release page in this repository, with a summary of what changed: <https://github.com/avisnet-ship-it/senajg.com/releases>. The version process (tags, branches and Releases) is in `VERSIONING.md`, in the project's private repository, `avisnet-ship-it/privado`; the `CLAUDE.md` here reminds Claude to read it before acting.
+Current version: **v4.2.0** (SenaJG-rev.71), 2026-11-15. The first version of this website was v4.0.0 (SenaJG-rev.58), 2026-10-30: the international domain, senajg.com, for the website in English. Each version has a Release page in this repository, with a summary of what changed: <https://github.com/avisnet-ship-it/senajg.com/releases>. The version process (tags, branches and Releases) is in `VERSIONING.md`, in the project's private repository, `avisnet-ship-it/privado`; the `CLAUDE.md` here reminds Claude to read it before acting.
 
 ## Where each page is
 
